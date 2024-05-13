@@ -29,4 +29,7 @@ class Autor {
         this.nacionalidade = nacionalidade;
     }
 
+
 }
+
+module.exports = Autor;
